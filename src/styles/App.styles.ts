@@ -12,9 +12,7 @@ const Plate = styled.div`
 
 const ProductionsTagline = styled.div`
   position: relative;
-  top: -4rem;
   color: white;
-  font-size: 190%;
   font-family: 'Libre Barcode 128 Text', cursive;
   font-weight: 400;
   font-size: 2.5em;

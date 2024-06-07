@@ -153,6 +153,7 @@ const TextBox = styled.input`
   margin-top: 20px;
   border: 5px solid black;
   font-size: 1.5rem;
+  font-color: black;
   padding: 6px;
   text-align: center;
   border-radius: 35px;
