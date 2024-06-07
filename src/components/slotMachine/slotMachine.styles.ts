@@ -91,6 +91,7 @@ const Button = styled.button<{ isSpinning: boolean }>`
   position: relative;
   padding: 10px 20px;
   font-size: 1rem;
+  font-color: black;
   margin-top: 20px;
   border: 5px solid black;
   border-radius: 35px;
@@ -164,7 +165,7 @@ const TextBox = styled.input`
   z-index: 2;
 
   input: disabled {
-    background-color: rgba(111, 159, 181, 1);
+    background-color: rgba(111, 159, 181);
   }
 
   &:hover {
