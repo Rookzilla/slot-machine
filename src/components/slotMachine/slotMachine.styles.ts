@@ -5,7 +5,6 @@ import {
   Flash,
   DotText,
   Expand,
-  Shake,
   InteriorExpand,
   Spin,
   Click,
